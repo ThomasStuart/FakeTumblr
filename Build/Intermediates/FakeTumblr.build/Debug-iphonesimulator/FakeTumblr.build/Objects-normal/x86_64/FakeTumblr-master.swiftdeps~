@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "755d6e4e0705dc93c1d4904fe2265e1b"
+build_time: [1550286286, 253489000]
+inputs:
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/FakeTumblr/AppDelegate.swift": [1550285798, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/FakeTumblr/PhotoCell.swift": [1550285798, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/FakeTumblr/PhotosViewController.swift": [1550285798, 0]

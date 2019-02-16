@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "31d737e5228a15a39778f8e5de8c7971"
+build_time: [1550286280, 936104000]
+inputs:
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/AFError.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/Alamofire.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/MultipartFormData.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/Notifications.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/ParameterEncoding.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/Request.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/Response.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/ResponseSerialization.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/Result.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/SessionDelegate.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/SessionManager.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/TaskDelegate.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/Timeline.swift": [1550286253, 0]
+  "/Users/Thomas_Stuart/Desktop/FakeTumblr-master/Pods/Alamofire/Source/Validation.swift": [1550286253, 0]
